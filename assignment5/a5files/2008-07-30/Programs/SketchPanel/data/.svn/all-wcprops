@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data
+END
+frontarc.amat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/frontarc.amat
+END
+gate.model
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/gate.model
+END
+nor.amat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/nor.amat
+END
+nand.amat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/nand.amat
+END
+not.amat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/not.amat
+END
+or.amat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/or.amat
+END
+and.amat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/and.amat
+END
+backarc.amat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/backarc.amat
+END
+partial.train
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/partial.train
+END
+backline.amat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/backline.amat
+END
+partial.model
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/partial.model
+END
+bubble.amat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/bubble.amat
+END
+gate.train
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sketch/!svn/ver/3646/Trunk/Release/2008-07-30/Programs/SketchPanel/data/gate.train
+END

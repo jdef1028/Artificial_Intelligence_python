@@ -1,0 +1,4 @@
+EECS348 2015
+Text vs Drawing
+text 0 Blue
+drawing 1 Red

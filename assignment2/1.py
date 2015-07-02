@@ -1,0 +1,5 @@
+execfile("xlo365.py")
+p1 = xlo365(1, Player.CUSTOM)
+p2 = Player(2, Player.ABPRUNE,7)
+mb = MancalaBoard()
+mb.hostGame(p1,p2)

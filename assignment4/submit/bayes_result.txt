@@ -1,0 +1,90 @@
+Training fold #1
+Test #1:
+Accuracy: 0.717171717172
+Precision_pos: 0.994659546061
+Precision_neg: 0.390894819466
+Recall_pos: 0.657546337158
+Recall_neg: 0.98418972332
+F1_pos: 0.791710945802
+F1_neg: 0.559550561798
+Training fold #2
+Test #2:
+Accuracy: 0.718817591925
+Precision_pos: 0.994542974079
+Precision_neg: 0.409785932722
+Recall_pos: 0.653811659193
+Recall_neg: 0.985294117647
+F1_pos: 0.788961038961
+F1_neg: 0.578833693305
+Training fold #3
+Test #3:
+Accuracy: 0.73612112473
+Precision_pos: 0.985234899329
+Precision_neg: 0.447040498442
+Recall_pos: 0.674012855831
+Recall_neg: 0.963087248322
+F1_pos: 0.800436205016
+F1_neg: 0.610638297872
+Training fold #4
+Test #4:
+Accuracy: 0.707281903389
+Precision_pos: 0.988587731812
+Precision_neg: 0.419825072886
+Recall_pos: 0.635197066911
+Recall_neg: 0.972972972973
+F1_pos: 0.7734375
+F1_neg: 0.586558044807
+Training fold #5
+Test #5:
+Accuracy: 0.728911319394
+Precision_pos: 0.996036988111
+Precision_neg: 0.407936507937
+Recall_pos: 0.669032830524
+Recall_neg: 0.988461538462
+F1_pos: 0.80042462845
+F1_neg: 0.577528089888
+Training fold #6
+Test #6:
+Accuracy: 0.712842712843
+Precision_pos: 0.993074792244
+Precision_neg: 0.40813253012
+Recall_pos: 0.645945945946
+Recall_neg: 0.981884057971
+F1_pos: 0.782751091703
+F1_neg: 0.576595744681
+Training fold #7
+Test #7:
+Accuracy: 0.725108225108
+Precision_pos: 0.99451303155
+Precision_neg: 0.426179604262
+Recall_pos: 0.657894736842
+Recall_neg: 0.985915492958
+F1_pos: 0.791916985254
+F1_neg: 0.595111583422
+Training fold #8
+Test #8:
+Accuracy: 0.712842712843
+Precision_pos: 0.987935656836
+Precision_neg: 0.3921875
+Recall_pos: 0.654529307282
+Recall_neg: 0.965384615385
+F1_pos: 0.787393162393
+F1_neg: 0.557777777778
+Training fold #9
+Test #9:
+Accuracy: 0.72582972583
+Precision_pos: 0.992217898833
+Precision_neg: 0.391869918699
+Recall_pos: 0.671641791045
+Recall_neg: 0.975708502024
+F1_pos: 0.801047120419
+F1_neg: 0.559164733179
+Training fold #10
+Test #10:
+Accuracy: 0.721500721501
+Precision_pos: 0.99306518724
+Precision_neg: 0.427067669173
+Recall_pos: 0.652689152233
+Recall_neg: 0.982698961938
+F1_pos: 0.787678767877
+F1_neg: 0.595387840671

@@ -1,0 +1,14 @@
+HMC Research 08
+Wires are wires, other is for gates not listed, text is not labeled
+Wire 0 Blue
+AND 1 Brown
+OR 2 Green
+NOT 3 Purple
+BUBBLE 10 Red
+NOTBUBBLE 11 Crimson
+NAND 4 Orange
+NOR 5 Pink
+XOR 6 PowderBlue
+XNOR 7 MistyRose
+Label 9 Salmon
+Other 8 Wheat

@@ -1,0 +1,55 @@
+Problem 1: 
+
+twoToTheN test case #1: True
+twoToTheN test case #2: True
+twoToTheN test case #3: True
+
+Problem 2: 
+
+mean test case #1: True
+mean test case #2: True
+median test case #1: True
+median test case #2: True
+
+Problem 3: 
+
+4 
+10 
+3 
+14 
+1 
+bfs test case #1: True
+4 
+10 
+3 
+14 
+1 
+33 
+2 
+12 
+bfs test case #2: True
+4 
+1 
+dfs test case #1: True
+4 
+1 
+14 
+12 
+3 
+10 
+2 
+33 
+dfs test case #2: True
+
+Problem 4: 
+
+* * *
+* * *
+* * *
+
+* * X
+* * X
+O O X
+
+tic tac toe test case #1: True
+tic tac toe test case #2: True

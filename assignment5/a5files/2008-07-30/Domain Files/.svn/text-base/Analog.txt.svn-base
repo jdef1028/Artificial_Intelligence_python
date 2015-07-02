@@ -1,0 +1,17 @@
+HMC Research 2008
+Analog circuits
+Wire 0 Blue
+Resistor 1 Brown
+Transistor 2 Green
+Capacitor 3 Orange
+Inductor 4 LightSeaGreen
+Diode 5 Purple
+Ground 6 Gray
+CurrentSource 7 Cornsilk
+VoltageSource 8 Red
+Other 9 Violet
+ACSource 10 Coral
+DigitalTransistor 11 LawnGreen
+Battery 12 Chocolate
+Label 13 Salmon
+LabelBox 14 Pink
